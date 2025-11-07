@@ -1,68 +1,88 @@
 # 👋 Hi there, I'm Christos Tzoras
 
 🎯 **Data Scientist | AI Engineer | Machine Learning Engineer**  
-Passionate about building intelligent systems that transform data into real-world insights.  
-I focus on applied machine learning, generative AI, and MLOps — delivering scalable, production-ready AI solutions.  
-Currently exploring **agentic AI systems** and **LangGraph/MCP frameworks** for next-gen automation.
+I hold a **BSc in Statistics and Insurance Science** and an **MSc in Applied Statistics with specialization in Data Science**,  
+with over **2 years of hands-on experience** in **Data Science** and **AI Engineering**.
+
+I love designing **end-to-end AI solutions** — from data exploration to production deployment.  
+My passion lies in **building KPIs**, developing **machine learning models**, and delivering **data-driven insights**  
+that empower better decision-making and optimize business performance.
 
 ---
 
 ## 🧠 Tech Stack
 
-### 🧩 Programming / Scripting Languages  
+### 🧩 Programming / Scripting Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-### 🤖 Machine Learning & Artificial Intelligence  
-![AzureML](https://img.shields.io/badge/AzureML-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FC3F1D?style=for-the-badge&logo=databricks&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+### 🤖 Machine Learning & Artificial Intelligence
+![Azure AutoML](https://img.shields.io/badge/Azure_AutoML-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![GenAI](https://img.shields.io/badge/Generative_AI-6E57E0?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-00B2FF?style=for-the-badge)
-![MCP](https://img.shields.io/badge/MCP-2D2D2D?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Flowise](https://img.shields.io/badge/Flowise-0B7285?style=for-the-badge)
+![Langflow](https://img.shields.io/badge/Langflow-3B82F6?style=for-the-badge)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-00C853?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-272A2A?style=for-the-badge)
+![GenAI](https://img.shields.io/badge/Generative_AI-6E57E0?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-444?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-2D2D2D?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-111?style=for-the-badge)
+![Clustering](https://img.shields.io/badge/Clustering-00A8E8?style=for-the-badge)
+![K-Means](https://img.shields.io/badge/K--Means-004D99?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-1E8449?style=for-the-badge)
 
 ---
 
-### ☁️ Cloud & DevOps  
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+### ☁️ Cloud & DevOps
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Databricks Asset Bundles](https://img.shields.io/badge/Databricks_Asset_Bundles-FC3F1D?style=for-the-badge&logo=databricks&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Devcontainers](https://img.shields.io/badge/Devcontainers-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Devcontainers](https://img.shields.io/badge/Devcontainers-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### ⚙️ APIs / Backend  
-![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
+### ⚙️ APIs / Backend
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-### 💼 Professional Skills  
-🧩 Cross-functional collaboration  
-🎯 Stakeholder management  
-📋 Requirements analysis  
-🚀 Project delivery  
+### 📊 Visualization Tools
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4E8CA1?style=for-the-badge)
+![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+---
+
+### 📈 Statistical Analysis
+![Regression Analysis](https://img.shields.io/badge/Regression_Analysis-006699?style=for-the-badge)
+![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-800000?style=for-the-badge)
+![Time Series](https://img.shields.io/badge/Time_Series-1A5276?style=for-the-badge)
+![Bayesian Inference](https://img.shields.io/badge/Bayesian_Inference-6C3483?style=for-the-badge)
+![Predictive Modeling](https://img.shields.io/badge/Predictive_Modeling-145A32?style=for-the-badge)
 
 ---
 
 ## 📊 GitHub Stats
-![Christos's GitHub stats]([https://github-readme-stats.vercel.app/api?username=CHRISTOSTZORAS&show_icons=true&theme=tokyonight](https://github.com/CHRISTOSTZORAS))
+![Christos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHRISTOSTZORAS&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/christos-tzoras/))
-[![Email](https://img.shields.io/badge/Email-me-red?style=for-the-badge&logo=gmail&logoColor=white)](xtzoras@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christos-tzoras/)
+[![Email](https://img.shields.io/badge/Email-xtzoras%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xtzoras@gmail.com)
