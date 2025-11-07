@@ -67,15 +67,15 @@ I enjoy **building KPIs**, crafting **machine learning models**, and turning **r
 
 ---
 
-### 📊 Visualization & Statistical Analysis
-#### 📈 Visualization Tools
+
+### 📈 Visualization Tools
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4E8CA1?style=for-the-badge)
 ![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-#### 🧮 Statistical Analysis
+### 🧮 Statistical Analysis
 ![Regression Analysis](https://img.shields.io/badge/Regression_Analysis-006699?style=for-the-badge)
 ![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-800000?style=for-the-badge)
 ![Time Series](https://img.shields.io/badge/Time_Series-1A5276?style=for-the-badge)
