@@ -1,18 +1,25 @@
-# 👋 Hi there, I'm Christos Tzoras
-
-🎯 **Data Scientist | AI Engineer | Machine Learning Engineer**  
-I hold a **BSc in Statistics and Insurance Science** and an **MSc in Applied Statistics with specialization in Data Science**,  
-with over **2 years of hands-on experience** in **Data Science** and **AI Engineering**.
-
-I love designing **end-to-end AI solutions** — from data exploration to production deployment.  
-My passion lies in **building KPIs**, developing **machine learning models**, and delivering **data-driven insights**  
-that empower better decision-making and optimize business performance.
+<!-- Animated Header -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7EF&center=true&vCenter=true&width=620&lines=👋+Hi+I'm+Christos+Tzoras!;Data+Scientist+%7C+AI+Engineer+%7C+Machine+Learning+Engineer;Transforming+Data+into+Intelligence)](https://git.io/typing-svg)
 
 ---
 
-## 🧠 Tech Stack
+### 👨‍💻 About Me  
 
-### 🧩 Programming / Scripting Languages
+🎯 **Data Scientist | AI Engineer | Machine Learning Engineer**  
+
+I hold a **BSc in Statistics and Insurance Science** and an **MSc in Applied Statistics (specialization in Data Science)**,  
+with **2+ years of hands-on experience** in **Data Science** and **AI Engineering**.  
+
+I'm passionate about designing **end-to-end AI solutions** — from **data exploration** to **production deployment**.  
+I enjoy **building KPIs**, crafting **machine learning models**, and turning **raw data into meaningful insights** that drive business decisions.  
+
+> “Where data meets intelligence — that’s where I build.”
+
+---
+
+## 🧠 Core Skills & Technologies
+
+### 🧩 Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
@@ -60,16 +67,15 @@ that empower better decision-making and optimize business performance.
 
 ---
 
-### 📊 Visualization Tools
+### 📊 Visualization & Statistical Analysis
+#### 📈 Visualization Tools
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4E8CA1?style=for-the-badge)
 ![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
----
-
-### 📈 Statistical Analysis
+#### 🧮 Statistical Analysis
 ![Regression Analysis](https://img.shields.io/badge/Regression_Analysis-006699?style=for-the-badge)
 ![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-800000?style=for-the-badge)
 ![Time Series](https://img.shields.io/badge/Time_Series-1A5276?style=for-the-badge)
@@ -78,13 +84,25 @@ that empower better decision-making and optimize business performance.
 
 ---
 
-## 📊 GitHub Stats
-![Christos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHRISTOSTZORAS&show_icons=true&theme=tokyonight)
+## 🚀 Current Focus
+- 🧩 **Building modular AI pipelines** using LangFlow, RAG, and MCP  
+- ⚙️ **Automating ML lifecycle** with Azure AutoML and CI/CD  
+- 🤖 **Experimenting with Agentic AI** and embedding-based reasoning  
+- 📊 **Designing KPI dashboards** that connect business logic with ML outputs  
 
 ---
 
-## 🔗 Connect with Me
+## 📊 GitHub Overview
+![Christos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHRISTOSTZORAS&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHRISTOSTZORAS&layout=compact&theme=tokyonight)
+
+---
+
+## 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christos-tzoras/)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xtzoras@gmail.com)
 
+---
+
+⭐ *"Empowering ideas through data, automation, and AI."*
