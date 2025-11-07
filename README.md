@@ -59,7 +59,7 @@ Currently exploring **agentic AI systems** and **LangGraph/MCP frameworks** for 
 ---
 
 ## 📊 GitHub Stats
-![Christos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHRISTOSTZORAS&show_icons=true&theme=tokyonight)
+![Christos's GitHub stats]([https://github-readme-stats.vercel.app/api?username=CHRISTOSTZORAS&show_icons=true&theme=tokyonight](https://github.com/CHRISTOSTZORAS))
 
 ---
 
