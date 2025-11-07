@@ -85,4 +85,4 @@ that empower better decision-making and optimize business performance.
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christos-tzoras/)
-[![Email](https://img.shields.io/badge/Email-xtzoras%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xtzoras@gmail.com)
+[![Email]](mailto:xtzoras@gmail.com)
