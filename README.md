@@ -3,7 +3,7 @@
 
 ---
 
-### 👨‍💻 About Me  
+## 👨‍💻 About Me
 
 🎯 **Data Scientist | AI Engineer | Machine Learning Engineer**  
 
@@ -28,7 +28,6 @@ I enjoy **building KPIs**, crafting **machine learning models**, and turning **r
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
 
 ### 🤖 Machine Learning & Artificial Intelligence
 ![Azure AutoML](https://img.shields.io/badge/Azure_AutoML-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -47,7 +46,6 @@ I enjoy **building KPIs**, crafting **machine learning models**, and turning **r
 ![K-Means](https://img.shields.io/badge/K--Means-004D99?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-1E8449?style=for-the-badge)
 
----
 
 ### ☁️ Cloud & DevOps
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -58,14 +56,11 @@ I enjoy **building KPIs**, crafting **machine learning models**, and turning **r
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Devcontainers](https://img.shields.io/badge/Devcontainers-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
 
 ### ⚙️ APIs / Backend
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
 
 
 ### 📈 Visualization Tools
@@ -74,6 +69,7 @@ I enjoy **building KPIs**, crafting **machine learning models**, and turning **r
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4E8CA1?style=for-the-badge)
 ![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
 
 ### 🧮 Statistical Analysis
 ![Regression Analysis](https://img.shields.io/badge/Regression_Analysis-006699?style=for-the-badge)
