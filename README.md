@@ -89,7 +89,7 @@ I enjoy **building KPIs**, crafting **machine learning models**, and turning **r
 ---
 
 ## 📊 GitHub Overview
-![Christos's GitHub stats]([https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CHRISTOSTZORAS&show_icons=true&theme=tokyonight](https://christostzoras-v9lodajie-christostzoras-projects.vercel.app/api?username=CHRISTOSTZORAS&show_icons=true&theme=tokyonight))
+![Christos's GitHub stats](https://github-readme-stats-five-lac-88.vercel.app/api?username=CHRISTOSTZORAS&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHRISTOSTZORAS&layout=compact&theme=tokyonight)
 
 ---
