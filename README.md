@@ -91,6 +91,11 @@ I enjoy **building KPIs**, crafting **machine learning models**, and turning **r
 ## 📊 GitHub Overview
 ![Christos's GitHub stats](https://github-readme-stats-five-lac-88.vercel.app/api?username=CHRISTOSTZORAS&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats-five-lac-88.vercel.app/api/top-langs/?username=CHRISTOSTZORAS&layout=compact&theme=tokyonight)
+![Trophies](https://github-profile-trophy.vercel.app/?username=CHRISTOSTZORAS&theme=tokyonight&no-frame=true&margin-w=10)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CHRISTOSTZORAS&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=CHRISTOSTZORAS&color=blueviolet)
+![Snake animation](https://github.com/CHRISTOSTZORAS/CHRISTOSTZORAS/blob/output/github-contribution-grid-snake.svg)
+![Metrics](https://metrics.lecoq.io/CHRISTOSTZORAS?template=classic&base=header%2Cactivity%2Crepositories)
 
 ---
 
